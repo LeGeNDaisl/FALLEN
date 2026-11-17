@@ -6,7 +6,7 @@ USB OTG Cable/Adapter,For USB peripherals connection,1,1.54,1.54
 Raspberry Pi Camera Module 3 (or v2),Camera sensor module,1,108.40,108.40
 Camera Ribbon Cable (22-pin to 15-pin),Adapter cable for Zero to Camera 3,1,2.27,2.27
 Pan-Tilt Bracket for 2x SG90,Plastic bracket for servo motors,1,4.86,4.86
-SG90 Servo Motor (9g) × 2,Servos for pan-tilt movement,2,2.29,4.57
+SG90 Servo Motor (9g) x 2,Servos for pan-tilt movement,2,2.29,4.57
 Red LED 5 mm,Indicator light,1,1.61,1.61
 220 Ohm Resistor 0.25W,Resistor for LED,1,2.21,2.21
 Active Buzzer 3.3V/5V,Audible alert component,1,1.43,1.43
@@ -19,3 +19,5 @@ Dupont Jumper Wires (M-M / M-F),Wires for prototyping and connections,1,2.04,2.0
 Pin Headers for Raspberry Pi Zero 2 W,GPIO headers soldering,1,5.20,5.20
 Tripod / Phone and Camera Mount,Mounting tripod stand,1,2.16,2.16
 Mounting Hardware (M2/M2.5 Screws Cable Ties),Fasteners and fixings,1,2.79,2.79
+1/4-20 Brass Heat-Set Threaded Inserts (20 pcs),Brass threaded inserts for securing components in the 3D-printed plastic casing,20,0.33,6.59
+80W Adjustable Temperature Electric Soldering Iron Kit,Soldering tool for assembling and connecting electronic components,1,12.13,12.13
