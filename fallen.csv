@@ -1,22 +1,22 @@
 Item,Description,Quantity,Per-Part Unit Price,Actual Item Price,URL
-"Raspberry Pi Zero 2 W","Main microcontroller board",1,72779,72779,https://ozon.kz/t/WcWvS0B
-"microSD Card 32–64 GB, Class 10","Storage for Raspberry Pi OS",1,3902,3902,https://ozon.kz/t/RhR9FPf
-"5V 3A USB Power Supply","Power adapter for the system",1,1145,1145,https://ozon.kz/t/MnMnmDs
-"USB OTG Cable/Adapter","For USB peripherals connection",1,687,687,https://ozon.kz/t/D4D4gTx
-"Raspberry Pi Camera Module 3 (or v2)","Camera sensor module",1,48031,48031,https://ozon.kz/t/OyOuq8R
-"Camera Ribbon Cable (22-pin to 15-pin)","Adapter cable for Zero to Camera 3",1,2686,2686,https://ozon.kz/t/gmg5zG3
-"Pan-Tilt Bracket for 2x SG90","Plastic bracket for servo motors",1,2508,2508,https://ozon.kz/t/AxAYgaZ
-"SG90 Servo Motor (9g) × 2","Servos for pan-tilt movement",2,1026,2052,https://ozon.kz/t/hihWWsY
-"Red LED 5 mm","Indicator light",1,711,711,https://ozon.kz/t/LCLCLBN
-"220 Ohm Resistor, 0.25W","Resistor for LED",1,982,982,https://ozon.kz/t/EIEB0xE
-"Active Buzzer 3.3V/5V","Audible alert component",1,639,639,https://ozon.kz/t/7G7Ev9Z
-"NPN Transistor 2N2222 (or S8050)","Switching transistor for buzzer/power",1,560,560,https://ozon.kz/t/dwdwKQE
-"1 kOhm Resistor, 0.25W","Base resistor for transistor",1,593,593,https://ozon.kz/t/dwd1v7k
-"10 kOhm Resistor, 0.25W","Pull-down/protection resistor",1,620,620,https://ozon.kz/t/dwd10MM
-"Separate 5V 2–3A DC-DC Converter/Power Supply","Dedicated power for servos",1,1346,1346,https://ozon.kz/t/EIEBXzY
-"Electrolytic Capacitor 470–1000 µF, 10V+","Smoothing capacitor for power stability",1,550,550,https://ozon.kz/t/3Q37v45
-"Dupont Jumper Wires (M-M / M-F)","Wires for prototyping and connections",1,909,909,https://ozon.kz/t/BSBXL9v
-"Pin Headers for Raspberry Pi Zero 2 W","GPIO headers soldering",1,1170,1170,https://ozon.kz/t/6l69bpZ
-"Tripod / Phone and Camera Mount","Mounting tripod stand",1,948,948,https://ozon.kz/t/r9rhqtY
+"Raspberry Pi Zero 2 W","Main microcontroller board",1,147.03,147.03,https://ozon.kz/t/WcWvS0B
+"microSD Card 32–64 GB, Class 10","Storage for Raspberry Pi OS",1,7.88,7.88,https://ozon.kz/t/RhR9FPf
+"5V 3A USB Power Supply","Power adapter for the system",1,2.31,2.31,https://ozon.kz/t/MnMnmDs
+"USB OTG Cable/Adapter","For USB peripherals connection",1,1.39,1.39,https://ozon.kz/t/D4D4gTx
+"Raspberry Pi Camera Module 3 (or v2)","Camera sensor module",1,97.03,97.03,https://ozon.kz/t/OyOuq8R
+"Camera Ribbon Cable (22-pin to 15-pin)","Adapter cable for Zero to Camera 3",1,5.43,5.43,https://ozon.kz/t/gmg5zG3
+"Pan-Tilt Bracket for 2x SG90","Plastic bracket for servo motors",1,5.07,5.07,https://ozon.kz/t/AxAYgaZ
+"SG90 Servo Motor (9g) × 2","Servos for pan-tilt movement",2,2.07,4.15,https://ozon.kz/t/hihWWsY
+"Red LED 5 mm","Indicator light",1,1.44,1.44,https://ozon.kz/t/LCLCLBN
+"220 Ohm Resistor, 0.25W","Resistor for LED",1,1.98,1.98,https://ozon.kz/t/EIEB0xE
+"Active Buzzer 3.3V/5V","Audible alert component",1,1.29,1.29,https://ozon.kz/t/7G7Ev9Z
+"NPN Transistor 2N2222 (or S8050)","Switching transistor for buzzer/power",1,1.13,1.13,https://ozon.kz/t/dwdwKQE
+"1 kOhm Resistor, 0.25W","Base resistor for transistor",1,1.20,1.20,https://ozon.kz/t/dwd1v7k
+"10 kOhm Resistor, 0.25W","Pull-down/protection resistor",1,1.25,1.25,https://ozon.kz/t/dwd10MM
+"Separate 5V 2–3A DC-DC Converter/Power Supply","Dedicated power for servos",1,2.72,2.72,https://ozon.kz/t/EIEBXzY
+"Electrolytic Capacitor 470–1000 µF, 10V+","Smoothing capacitor for power stability",1,1.11,1.11,https://ozon.kz/t/3Q37v45
+"Dupont Jumper Wires (M-M / M-F)","Wires for prototyping and connections",1,1.84,1.84,https://ozon.kz/t/BSBXL9v
+"Pin Headers for Raspberry Pi Zero 2 W","GPIO headers soldering",1,2.36,2.36,https://ozon.kz/t/6l69bpZ
+"Tripod / Phone and Camera Mount","Mounting tripod stand",1,1.91,1.91,https://ozon.kz/t/r9rhqtY
 "Brass Insert 1/4-20","Threaded insert for tripod mount",1,1.00,1.00,https://ozon.kz/t/MnMwEuQ
-"Soldering Iron 80W with Kit","Adjustable soldering iron kit",1,5395,5395,https://ozon.kz/t/l1lYTiW
+"Soldering Iron 80W with Kit","Adjustable soldering iron kit",1,10.90,10.90,https://ozon.kz/t/l1lYTiW
